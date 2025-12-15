@@ -1,4 +1,4 @@
-package java_estudos;
+package java_estudos.agenda;
 
 public class ContatoComercial extends Contato {
     private String nomeDaEmpresa;

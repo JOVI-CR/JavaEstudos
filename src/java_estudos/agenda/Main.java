@@ -1,4 +1,4 @@
-package java_estudos;
+package java_estudos.agenda;
 
 import java.util.Scanner;
 

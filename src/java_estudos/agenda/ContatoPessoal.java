@@ -1,4 +1,4 @@
-package java_estudos;
+package java_estudos.agenda;
 
 public class ContatoPessoal extends Contato {
     private String apelido;
